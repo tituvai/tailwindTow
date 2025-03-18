@@ -1,0 +1,19 @@
+
+
+@import "tailwindcss";
+
+
+
+@theme {
+
+    /* Container Part Start */
+      --spacing-mycontainer: 800px; 
+  
+       /* Container Part End*/
+  
+  
+       --font-titu: "Poppins", "sans-serif"; 
+  
+       --font-sarkar: "Nunito Sans", "sans-serif"; 
+  
+    }
